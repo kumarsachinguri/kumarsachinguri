@@ -1,10 +1,14 @@
 ### Hi there 👋
+  
+  Here are some glimpse of what i'm working on:
 
+- 🔭 I’m currently working on ... Angular, .net Core, TypeScript, C#, MSSQL
+- 🌱 I’m currently learning ... Rust, Go, Docker, Kubernetes, CI/CD, Jenkins
+- 👯 I’m looking to collaborate on ... Angular, React, TypeScript, Rust, Go
+- 💬 Ask me about ... Development, Personal Growth, Life of a Software Engineer, IT/Tech
+- 📫 How to reach me: ... Gmail: kumarsachinguri, Linkedin: in/sachin-guri
+- 😄 Pronouns: ... he/him
 <!--
-**Sachin-Kumar-Guri/Sachin-Kumar-Guri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
