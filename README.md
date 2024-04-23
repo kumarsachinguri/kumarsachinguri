@@ -3,10 +3,10 @@
   Here are some glimpse of what i'm working on:
 
 - 🔭 I’m currently working on ... Angular, .net Core, TypeScript, C#, MSSQL
-- 🌱 I’m currently learning ... Rust, Go, Docker, Kubernetes, CI/CD, Jenkins
-- 👯 I’m looking to collaborate on ... Angular, React, TypeScript, Rust, Go
+- 🌱 I’m currently learning ... React, Next.js, Rust, Docker, Kubernetes, CI/CD, Jenkins
+- 👯 I’m looking to collaborate on ... Next.js, Rust, Docker
 - 💬 Ask me about ... Development, Personal Growth, Life of a Software Engineer, IT/Tech
-- 📫 How to reach me: ... Gmail: kumarsachinguri, Linkedin: in/sachin-guri
+- 📫 How to reach me: ... Twitter: @kumarsachinguri, Gmail: kumarsachinguri
 - 😄 Pronouns: ... he/him
 <!--
 - 🔭 I’m currently working on ...
