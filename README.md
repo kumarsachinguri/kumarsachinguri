@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ... Rust, Docker, Kubernetes, CI/CD, Jenkins
 - 👯 I’m looking to collaborate on ... Next.js, Rust, Docker
 - 💬 Ask me about ... Development, Personal Growth, Life of a Software Engineer, IT/Tech
-- 📫 How to reach me: ... Twitter: @kumarsachinguri, Gmail: kumarsachinguri
+- 📫 How to reach me: ... Twitter: @kumarsachinguri, Gmail: kumarsachinguri, Instagram: @kumarsachinguri, LinkedIn: /in/kumarsachinguri
 - 😄 Pronouns: ... he/him
 <!--
 - 🔭 I’m currently working on ...
