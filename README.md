@@ -2,8 +2,8 @@
   
   Here are some glimpse of what i'm working on:
 
-- 🔭 I’m currently working on ... Angular, .net Core, TypeScript, C#, MSSQL
-- 🌱 I’m currently learning ... React, Next.js, Rust, Docker, Kubernetes, CI/CD, Jenkins
+- 🔭 I’m currently working on ... Angular, React, Next.js, .net Core, TypeScript, C#, MSSQL
+- 🌱 I’m currently learning ... Rust, Docker, Kubernetes, CI/CD, Jenkins
 - 👯 I’m looking to collaborate on ... Next.js, Rust, Docker
 - 💬 Ask me about ... Development, Personal Growth, Life of a Software Engineer, IT/Tech
 - 📫 How to reach me: ... Twitter: @kumarsachinguri, Gmail: kumarsachinguri
