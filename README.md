@@ -1,5 +1,5 @@
 # Hi there 👋
-🔭 **I’m currently working on:**  <br>Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Advanced Azure Services.<br><br>💬 **Ask me about:**  <br>Typescript, Angular, React, Nextjs, Node.js, Azure, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I like creating content.
+🔭 **I’m currently working on:**  Improving cloud-based solutions and implementing microservices architecture.<br><br>👯 **I’m looking to collaborate on:**  Fullstack projects<br><br>🌱 **I’m currently learning:**  Advanced Azure Services.<br><br>💬 **Ask me about:**  Typescript, Azure, and any general software development questions.<br><br>⚡ **Fun fact:**  I like creating content.
 
 
 ## 🌐 Socials:
